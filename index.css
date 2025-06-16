@@ -1,0 +1,7 @@
+p{
+    color: blue;
+}
+p::first-letter{
+    color: red;
+    font-size: 50px;
+}
